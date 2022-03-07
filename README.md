@@ -1,6 +1,6 @@
 # mycode (Project Title)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
+I am interested in learning if there is any rhyme or reason to how version numbers are created/used or if it is just whatever the developer feels like putting. One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
 ## Getting Started
